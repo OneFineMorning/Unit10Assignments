@@ -1,0 +1,25 @@
+Otto Tang
+Unit 10.2 
+
+let and const Exercise
+
+const PI = 3.14;
+
+
+Quiz
+1. What is the difference between var and let?
+One of the main differences between var and let is that var has a function scope where as let has a block scope. 
+Variables declared with let only exist between curly brackets, block scope. Another difference is that var can be redeclared
+where as a variable under let cannot be redeclared. This allows for the var variable to have a global and local
+scope. 
+
+2. What is the difference between var and const?
+Unlike a var, const cannot be be reassigned as a const designates a variable to be constantly that initial assignment.
+A const can also not be redeclared like a let. A const also has block scope unlike a var. 
+
+3. What is the difference between let and const?
+The main difference between a let and a const is that a let can be reassigned whereas a const cannot be reassigned.
+
+4. What is hoisting?
+Hoisting is when the variable declaration is executed first when the script is ran. This is something of a benefit for 
+var where as let and const do not have the declaration executed first. 
