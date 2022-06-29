@@ -1,0 +1,10 @@
+Otto Tang
+Unit 10.3
+
+Arrow Functions Exercises
+
+ES2015 Arrow Functions Shorthand
+
+1. let double = arr => arr.map ((val) => (val*2));
+
+2. let squareAndFindEvens = numbers => numbers.map(val => val ** 2).filter(nums => nums %2 === 0);
